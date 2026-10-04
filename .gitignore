@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+dataset/
+*.zip
+
+app.py.save
+
+.DS_Store
+
