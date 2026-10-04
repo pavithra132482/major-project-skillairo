@@ -126,3 +126,6 @@ Intelligent-Resume-Screening-System/
 ├── reports/
 │
 └── src/
+## Application Screenshot
+
+![Intelligent Resume Screening System](screenshots/resume_screening.png)
